@@ -1,0 +1,24 @@
+    h1.header_top {
+ 	font-family:		sans-serif;
+    	color:			blue;  
+    }
+    div#header {
+ 	font-family:		sans-serif;
+    	color:			red;  
+    }
+      
+    p.paragraph_odd {
+    	background-color:	blue;
+    	color:			white;
+    }
+    
+    p.paragraph_even {
+    	background-color:	red;
+    	color:			white;
+    }
+
+     div#paragraph5_id {
+    	background-color:	yellow;
+    	color:			green;
+    }
+

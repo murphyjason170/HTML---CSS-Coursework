@@ -1,0 +1,20 @@
+
+div#red {
+	position:		relative;
+   	background-color:	red;
+   	top:			0px;
+   	left:			-20px;
+}
+
+div#green {
+	position:		absolute;
+  	background-color:	green;
+        margin-left:		160px;
+}  
+
+div#blue {
+	position:		relative;
+	background-color:	blue;
+        margin-left:		270px;
+}  
+

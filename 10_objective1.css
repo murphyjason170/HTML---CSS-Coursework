@@ -1,0 +1,41 @@
+    body {
+    	background-color:	WhiteSmoke;			
+    }
+    
+    h2 {
+    	background-color:	MediumBlue;
+    	font-family:		sans-serif;
+    	color:			white;
+    	padding:		3px 5px 3px 50px;
+    }
+    
+    h3 {
+    	background-color:	MediumBlue;
+    	font-family:		sans-serif;
+    	color:			white;
+    	padding:		2px 5px 2px 50px;
+    }
+
+    img#surf_image_1{
+    	position: 		absolute;
+    	right: 			0;
+    	top:  			225;
+    	padding:		25px 100px 15px 0px ;
+    	width:			200px;
+    	height:			200px;
+      }
+    
+    img#surf_image_2{
+    	position: 		absolute;
+    	right: 			0;
+    	top:  			700;
+    	padding:		250px 100px 15px 0px ;
+    	width:			200px;
+    	height:			200px;
+       }
+    
+    form#question_style {
+    	background-color:	LightSkyBlue;
+    	padding:		3px 5px 3px 50px;
+    	font-family:		sans-serif;
+    }

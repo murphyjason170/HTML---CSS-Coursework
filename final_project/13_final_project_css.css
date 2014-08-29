@@ -1,0 +1,88 @@
+body {
+	background: url(http://t0.gstatic.com/images?q=tbn:ANd9GcSA4fadQTyaCQIH8yDq0mtigryj19VVK8IwXZETDk6dZn4SdS7h) repeat;
+}
+
+a {
+	color:			#53868B;
+}
+
+a:visited {
+	color:			#000099;
+}
+
+a:hover {
+	background-color:	#D3D3D3;
+}
+
+h1 {
+	color:			#00008B;
+	background-color:	#FFFFFF;
+	font-family:		Arial, Helvetica, sans-serif;
+	border-width:		2px;
+	border-color:		#ADD8E6;
+	border-style:		outset;
+}
+
+h3 {
+	color:			#00008B;
+	background-color:	#F6F9ED;
+	font-family:		Arial, Helvetica, sans-serif;
+	font-size:		125%;
+	border-width:		2px;
+	border-color:		#ADD8E6;
+	border-style:		outset;
+	padding-top:		10px;
+	padding-right:		10px;
+	padding-bottom:		10px;
+	padding-left:		10px;
+}
+
+h5 {
+	background-color:	#FFFFFF;
+	border-width:		2px;
+	border-color:		#ADD8E6;
+	border-style:		outset;
+}
+
+li {
+	list-style-type:	square;
+	background-color:	#FFFFFF;
+	color:			#00008B;
+	font-size:		125%;
+ 	font-family:		Arial, Helvetica, sans-serif;
+	border-width:		2px;
+	border-color:		#ADD8E6;
+	border-style:		outset;
+}
+
+.image_1 {
+	width:			200px;
+	height:			250px;
+
+}
+
+.link_table {
+	background-color:	#FFFFFF;
+	color:			#00008B;
+	font-family:		Arial, Helvetica, sans-serif;
+	border-width:		2px;
+	border-color:		#ADD8E6;
+	border-style:		outset;
+	border-collapse:	collapse;
+}
+
+.survey {
+	padding-left:		25px;
+	background-color:	#ECF1EF;
+	color:			#00008B;
+	border-width:		2px;
+	border-color:		#ADD8E6;
+	border-style:		outset;
+	font-family:		Arial, Helvetica, sans-serif;
+}
+
+footer {
+	text-align:		center;
+	font-size:		125%;
+} 
+

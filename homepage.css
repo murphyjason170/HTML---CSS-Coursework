@@ -1,0 +1,14 @@
+    body {
+      background-color:		black;
+      font-family: 		monaco;
+      color:			white;
+    }
+    .grey {
+    	background-color:	#a9a9a9;
+    }
+    div#header {
+     	font-family:		serif;
+    }
+    div#content {
+    	background-color:	#ccccff;
+    }

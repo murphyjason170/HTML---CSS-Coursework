@@ -1,0 +1,48 @@
+   body {
+  	background-color:	WhiteSmoke;
+  
+  }
+  
+  h1 {
+  	background-color:	Orange;
+  	color:			White;
+  }
+  
+ img#band_image {
+  	position:		absolute;
+  	padding:		150px 1px 1px 525px;
+ }
+  
+ tr#column_labels {
+ 	background-color:	orange;
+ }
+  
+  p {
+  	color:			DarkBlue;
+  	width:			400;
+  }
+  
+  td {
+    	padding: 		5px;
+  }
+  th {
+    	padding: 		5px;
+  }
+  tr:nth-child(even){
+  	background-color:	Yellow;
+  }
+  tr:nth-child(odd){
+  	background-color:	LightBlue;
+  }
+
+  caption {
+  	font-weight:		bold;
+  	font-size:		150%;
+  	border-bottom:		1px solid black;
+  }
+  td.source {
+  	font-style:		italic;
+  	background-color:	white;
+  	border-top:		1px inset black;
+  } 
+ 

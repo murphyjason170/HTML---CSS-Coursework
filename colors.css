@@ -1,0 +1,30 @@
+div#container{
+	position:		relative;
+  	top: 			200px;
+ 	left: 			200px;
+}
+
+.box {
+  	height:			50px;
+	width:			100px;
+}
+
+div#red {
+	position:		relative;
+   	background-color:	red;
+   	top:			50px;
+   	left:			50px;
+}
+
+div#green {
+	position:		absolute;
+  	background-color:	green;
+        margin-left:		160px;
+}  
+
+div#blue {
+	position:		relative;
+	background-color:	blue;
+        margin-left:		270px;
+}  
+
